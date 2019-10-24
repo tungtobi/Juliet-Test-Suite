@@ -1,3 +1,17 @@
+# Juliet Test Sutie File Stuff
+doc/
+lib/
+WebContent/
+*.py
+*.template
+*.xml
+*.dll
+*.so
+*.c
+*.cpp
+*.h
+*.sln
+
 # Compiled class file
 *.class
 
