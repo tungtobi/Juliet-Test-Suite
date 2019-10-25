@@ -15,4 +15,6 @@ Một vài lỗi
 ![Bug](https://i.imgur.com/cpHADvZ.png)
 ![Bug](https://i.imgur.com/ersxkRe.png)
 
-## Kiểm thử bằng Kritika
+## Kiểm thử bằng CodeScene
+
+[![](https://codescene.io/projects/5816/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/5816/jobs/latest-successful/results)
