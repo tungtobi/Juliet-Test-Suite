@@ -14,3 +14,5 @@ Một vài lỗi
 
 ![Bug](https://i.imgur.com/cpHADvZ.png)
 ![Bug](https://i.imgur.com/ersxkRe.png)
+
+## Kiểm thử bằng Kritika
